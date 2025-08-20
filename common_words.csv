@@ -1,0 +1,1001 @@
+word_eng;word_rus
+I/ me /my ;я/ мне /мой 
+you/ you /your ;ты (вы)/ тебе (вам) /твой (ваш) 
+he/ him /his ;он/ ему /его 
+she/ her /her ;она/ ей /ее 
+we/ us / our ;мы/ нам /наш 
+they/ them / their ;они/ им /их 
+It/ it /its ;оно/ ему (ей) / его (ее) 
+this ;этот, эта, это 
+that ;тот, та, то 
+these ;эти 
+those ;те 
+such ;такой, такая, такое 
+here ;здесь 
+there ;там, туда 
+then ;затем 
+what ;что, какой 
+who ;кто 
+which ;который 
+when ;когда 
+where ;где, куда 
+why ;почему 
+how ;как 
+how many / much ;сколько 
+how long ;как долго 
+a, an, the ;артикли 
+no, not ;нет, никакой 
+yes ;да 
+all ;все, весь, вся, всё 
+every ;каждый 
+another ;другой 
+other ;иной 
+some ;некоторые 
+any ;любой, какой-то 
+each ;каждый 
+together ;вместе 
+few ;мало (для исчисляемых) 
+little ;мало (для неисчисляемых) 
+many ;много (для исчисляемых) 
+much ;много (для неисчисляемых) 
+less ;меньше 
+more ;больше 
+very ;очень 
+time ;время 
+present ;настоящее 
+past ;прошлое 
+future ;будущее 
+day ;день 
+week ;неделя 
+month ;месяц 
+year ;год 
+century ;век 
+season ;сезон 
+autumn ;осень 
+winter ;зима 
+spring ;весна 
+summer ;лето 
+morning ;утро 
+noon ;полдень 
+afternoon ;время после полудня 
+midday ;середина дня /полдень 
+evening ;вечер 
+night ;ночь 
+midnight ;полночь 
+moment ;мгновение 
+second ;секунда 
+minute ;минута 
+hour ;час 
+now ;сейчас 
+never ;никогда 
+forever ;навсегда 
+often ;часто 
+seldom / hardly ever ;редко 
+sometimes ;иногда 
+soon ;скоро 
+always ;всегда 
+already ;уже 
+yet ;еще 
+just ;только что, просто 
+usually ;обычно 
+after ;после 
+today ;сегодня 
+yesterday ;вчера 
+tomorrow ;завтра 
+tonight ;сегодня вечером /ночью 
+late ;поздно, поздний 
+early ;рано 
+since ;с, после 
+before ;до 
+ago ;тому назад 
+after ;после 
+again ;снова 
+also / too ;тоже 
+almost ;почти 
+enough ;достаточно 
+probably ;возможно 
+maybe ;может быть 
+Monday ;понедельник 
+Tuesday ;вторник 
+Wednesday ;среда 
+Thursday ;четверг 
+Friday ;пятница 
+Saturday ;суббота 
+Sunday ;воскресенье 
+January ;январь 
+February ;февраль 
+March ;март 
+April ;апрель 
+May ;май 
+June ;июнь 
+July ;июль 
+August ;август 
+September ;сентябрь 
+October ;октябрь 
+November ;ноябрь 
+December ;декабрь 
+zero ;ноль 
+one (first) ;один (первый) 
+two (second) ;два (второй) 
+three (third) ;три (третий) 
+four (fourth) ;четыре (четвертый) 
+five (fifth) ;пять (пятый) 
+six (sixth) ;шесть (шестой) 
+seven (seventh) ;семь (седьмой) 
+eight (eighth) ;восемь (восьмой) 
+nine (ninth) ;девять (девятый) 
+ten (tenth) ;десять (десятый) 
+eleven ;одиннадцать 
+twelve ;двенадцать 
+thirteen ;тринадцать 
+fourteen ;четырнадцать 
+fifteen ;пятнадцать 
+sixteen ;шестнадцать 
+seventeen ;семнадцать 
+eighteen ;восемнадцать 
+nineteen ;девятнадцать 
+twenty ;двадцать 
+thirty ;тридцать 
+forty ;сорок 
+fifty ;пятьдесят 
+sixty ;шестьдесят 
+seventy ;семьдесят 
+eighty ;восемьдесят 
+ninety ;девяносто 
+(a / one) hundred ;сто 
+(a / one) thousand ;тысяча 
+million ;миллион 
+billion ;миллиард 
+number ;число 
+number/ figure ;цифра 
+quantity ;количество 
+couple ;пара 
+at;у, около, в, на
+in;в, на, за, через
+оn;на
+from;из, с, со, от
+into;в, вовнутрь
+about;о, вокруг, у, по
+against;против, лицом к, на
+to;к, на, в
+and;и
+or;или
+but;но
+yet;однако
+because of;из-за, потому что
+instead of;вместо
+if;если
+near;около
+over;над
+under;под
+between;между
+among;среди
+behind;за
+off;с, от
+by;к
+for / during;в течение
+so;поэтому, так
+with;с
+without;без
+until;до тех пор, пока
+up;вверх
+down;вниз
+through;сквозь, через
+person (pl. people);человек (люди)
+man (pl. men);мужчина (мужчины)
+woman (pl. women);женщина (женщины)
+child (pl. children);ребенок (дети)
+boy;мальчик
+girl;девочка
+guy;парень
+parents;родители
+father;отец
+mother;мать
+son;сын
+daughter;дочь
+brother;брат
+sister;сестра
+grandfather;дедушка
+grandmother;бабушка
+family;семья
+relationship;отношения
+husband;муж
+wife;жена
+uncle;дядя
+aunt;тетя
+nephew;племянник
+niece;племянница
+cousin;двоюродный брат / сестра
+friend;друг
+neighbour;сосед
+name;имя, название
+surname;фамилия
+address;адрес
+age;возраст
+old;старый
+young;молодой
+adult;взрослый
+married (unmarried);женатый (неженатый)
+single;холостой, одинокий
+divorced;разведенный
+life;жизнь
+death;смерть
+body;тело
+head;голова
+face;лицо
+eye;глаз
+nose;нос
+shoulder;плечо
+mouth;рот
+hand, arm;рука
+leg;нога
+foot;ступня
+heart;сердце
+hair;волосы
+skin;кожа
+blood;кровь
+thight;бедро
+health;здоровье
+vision;зрение
+appearance;внешность
+height;рост
+tall;высокий, длинный
+short;низкий, короткий
+thin;худой
+thick, fat;толстый
+nice;милый
+beautiful;красивый
+ugly;безобразный
+feeling;чувство
+love;любовь
+joy;радость
+fear;страх
+shame;стыд
+sadness;грусть
+anger;злость
+care;забота
+lie;ложь
+beauty;красота
+pain;боль
+kind;добрый
+active;активный
+strong;сильный
+calm;спокойный
+serious;серьезный
+clever / smart;умный
+stupid;глупый
+poor;бедный
+rich;богатый
+interesting;интересный
+good;хороший
+happy;счастливый
+dead;мертвый
+wise;мудрый
+clothes;одежда
+jeans;джинсы
+trousers (BrEng) / pants (AmEng);брюки, штаны
+dress;платье
+shirt;рубашка
+skirt;юбка
+shorts;шорты
+jacket;куртка, пиджак
+coat;пальто
+T-shirt;футболка
+blouse;блузка
+sweater;свитер
+scarf;шарф
+shoes;туфли, обувь
+boots;ботинки
+hat;шляпа
+cap;кепка
+sock;носок
+glove;перчатка
+suit;костюм
+underwear;нижнее белье
+size;размер
+image;образ
+job / work;работа
+profession;профессия
+career;карьера
+teacher;учитель, преподаватель
+musician;музыкант
+seller;продавец
+businessman;бизнесмен
+artist;художник
+doctor;доктор, врач
+journalist;журналист
+worker;рабочий
+farmer;фермер
+actor;актер
+actress;актриса
+author;автор
+writer;писатель
+manager;менеджер
+military man;военный
+cook;повар
+driver;водитель
+assistant;помощник
+singer;певец
+lawyer;юрист
+waiter;официант
+training;обучение
+question;вопрос
+answer;ответ
+skill;навык
+advice;совет
+experience;опыт
+firm;фирма
+company;компания
+business;бизнес, деловой
+document;документ
+data;данные
+information;информация
+case;дело
+process;процесс
+offer;предложение
+decision;решение
+reason;причина
+opportunity;возможность
+shop;магазин
+market;рынок
+office;офис
+boss;босс
+colleague;коллега
+meeting;встреча
+police;полиция
+hospital;больница
+bank;банк
+cabinet;кабинет
+success;успех
+money;деньги
+situation;ситуация
+accident;случай / происшествие
+problem;проблема
+aim / goal;цель
+result;результат
+vacation;отпуск
+art;искусство
+song;песня
+picture;изображение
+idea;идея
+thought;мысль
+society;общество
+politics;политика
+website;сайт
+email;электронная почта
+link;ссылка
+network;сеть
+hobby;увлечение
+game;игра
+sport;спорт
+power;сила
+student;студент, ученик
+university;университет
+school;школа
+college;колледж
+lesson;урок
+knowledge;знания
+education;образование
+science;наука
+book;книга
+copybook;тетрадь
+page;страница
+pencil;карандаш
+pen;ручка
+grammar;грамматика
+speaking;разговорный (английский)
+article;статья
+learning;изучение
+school uniforms;школьная форма
+course;курс
+word;слово
+noun;существительное
+verb;глагол
+modal verb;модальный глагол
+adjective;прилагательное
+sentence;предложение
+subject;предмет
+homework;домашняя работа
+table;таблица
+practice;практика
+foreign language;иностранный язык
+English;английский
+Russian;русский
+task;задача
+rule;правило
+theory;теория
+list;список
+dictionary;словарь
+vocabulary;словарный запас
+content;содержание
+paper;бумага
+meaning / sense;значение, смысл
+bell;звонок
+behaviour;поведение
+stage;этап
+option;вариант
+degree;степень
+test;тест
+exercise;упражнение
+exam;экзамен
+statement;утверждение
+mistake;ошибка
+memory;память
+part;часть
+example;пример
+lexicon;лексикон
+history;история
+literature;литература
+math;математика
+music;музыка
+note;нота
+holidays;каникулы
+journal / magazine;журнал
+base;база, основа
+story;рассказ
+group;группа
+choice;выбор
+point;пункт, точка
+colour;цвет
+light;светлый
+dark;темный
+bright;яркий
+white;белый
+black;черный
+red;красный
+orange;оранжевый
+yellow;желтый
+green;зеленый
+blue;голубой, синий
+purple;пурпурный, фиолетовый
+violet;темно-фиолетовый
+pink;розовый
+brown;коричневый
+grey (gray);серый
+silver;серебристый
+gold;золотой
+clean;чистый
+dirty;грязный
+good;хороший
+well;хорошо
+bad;плохой
+big / large;большой
+small;маленький
+huge;огромный
+average;средний
+cheap;дешевый
+expensive;дорогой
+free;бесплатный, свободный
+hard;твердый
+soft;мягкий
+smooth;гладкий
+warm;теплый
+cold;холодный
+hot;горячий
+new;новый
+normal;нормальный
+open;открытый
+closed;закрытый
+natural;натуральный, природный
+medical;медицинский
+long;длинный
+short;короткий
+full;полный
+great;великий, огромный, отличный
+important;важный
+political;политический
+quick;быстрый
+ready;готовый
+regular;регулярный
+right;правый, правильный
+left;левый
+wrong;неправильный
+difficult;сложный
+simple;простой
+round;круглый
+modern;современный
+social;социальный
+responsible;ответственный
+probable;вероятный
+next;следующий
+different;разный, различный
+easy;легкий
+foreign;иностранный
+real;реальный, настоящий
+amazing;удивительный
+far;далекий
+close;близкий
+main;главный, основной
+last;последний
+only;единственный, только
+available;доступный
+elementary;элементарный, начальный
+general;общий
+same;одинаковый
+some;некоторый
+current;текущий
+public;общественный
+perfect;идеальный
+the most;самый
+to be;быть
+have;иметь
+do;делать, сделать
+say;сказать
+get;получать
+find;находить
+tell;рассказывать
+ask;спрашивать
+use;использовать, воспользоваться
+come;приходить
+know;знать
+go;идти
+make;создавать
+give;давать
+want;хотеть
+look;смотреть
+think;думать
+take;брать, взять
+see;видеть
+work;работать
+try;стараться, пытаться
+leave;оставлять, покидать, уходить
+need;нуждаться
+seem;казаться
+become;становиться
+call;звонить
+feel;чувствовать
+put;класть
+keep;сохранять
+help;помогать
+begin;начинать
+walk;гулять
+close;закрывать
+open;открывать
+let;позволять
+grow;расти
+mean;иметь в виду
+believe;верить, полагать
+play;играть
+happen;случаться
+include;включать
+set;устанавливать
+hear;слышать
+change;менять
+create;создавать
+appear;появляться
+disappear;исчезать
+stand;стоять
+sit;сидеть
+serve;служить
+run;бежать
+remember;помнить
+buy;покупать
+bring;приносить
+win;выигрывать
+learn;учить, изучать
+live;жить
+continue;продолжать
+meet;встречать, встречаться
+show;показывать
+allow;позволять
+write;писать
+read;читать
+lose;терять, проигрывать
+offer;предлагать
+follow;следовать
+teach;преподавать, обучать
+pay;платить
+speak;говорить
+stop;прекращать, останавливать
+start;начинать
+finish;заканчивать
+watch;смотреть
+develop;развивать
+fall;падать
+pass;проходить, проезжать, сдавать
+produce;производить
+support;поддерживать
+thank;благодарить
+provide;снабжать, предоставлять
+raise;поднимать
+add;добавлять
+agree;соглашаться
+understand;понимать
+receive;получать
+jump;прыгать
+choose;выбирать
+hope;надеяться
+draw;рисовать
+decide;решать
+break;ломать
+send;отправлять
+build;строить
+eat;есть (кушать)
+hit;ударять, бить
+die;умирать
+catch;ловить
+swim;плавать
+sell;продавать
+return;возвращаться
+kill;убивать
+explain;объяснять
+stay;оставаться
+cut;резать
+solve;решать проблему
+love;любить
+discuss;обсуждать
+achieve;достигать
+prepare;готовиться
+forget;забывать
+suggest;предлагать
+depend;зависеть
+translate;переводить
+cook;готовить
+study;учиться, заниматься
+answer;отвечать
+smile;улыбаться
+repeat;повторять
+join;присоединяться
+end;заканчивать
+order;заказывать, приказывать
+plan;планировать, план
+dance;танцевать
+wear;носить
+lie;лежать, лгать
+cry;плакать
+drink;пить
+visit;посещать
+drive;водить
+wish;желать
+sing;петь
+fly;летать
+hold;держать
+talk;болтать, поговорить
+fear;бояться
+turn;поворачивать
+search;искать
+listen;слушать
+connect;соединять
+travel;путешествовать
+accept;принимать
+consume;употреблять
+recognize;узнавать
+protect;защищать
+memorize;запоминать
+share;делиться
+sleep;спать, сон
+like;нравиться
+expect;ожидать
+spend;тратить, проводить
+enjoy;наслаждаться
+need;нуждаться
+consist;состоять
+publish;опубликовывать
+arrive;прибывать
+drop / throw;бросать
+dream;мечтать
+wait;ждать
+laugh;смеяться
+miss;скучать
+fight;бороться
+save;сохранить
+describe;описывать
+push;толкать
+approach;подходить
+move;двигаться
+change;менять
+control;контролировать
+complement;дополнять
+recommend;рекомендовать
+apologize;извинять
+forgive;прощать
+download;скачать
+practice;практиковать
+advise;советовать
+determine;определять
+worry;беспокоиться
+communicate;общаться
+sign;подписывать
+store;хранить
+compare;сравнивать
+name, call;называть
+pull;тянуть
+lead;вести
+appear;выглядеть
+check;проверять
+lay;класть
+can;мочь, уметь
+could;мог, умел (в прошлом)
+must;должен, надо, нужно
+need;нужно
+have to;приходится, надо, быть должным,
+may;стоит, следует
+might;должен, следует, стоит
+should;следует, следовало бы
+shall / will;предложение помощи
+dare;сметь, посметь
+be allowed to;разрешить
+let;позволить
+would;вероятно, желать, бывает
+ought to;мочь, мог бы
+used to;делал регулярно
+be able to;смочь (в будущем)
+do / does;делать
+am / is /are;быть
+did;делал
+was/were;был
+will;буду
+have / has;иметь
+had;имел
+be in;быть дома
+be out;отсутствовать, быть не дома
+break down;сломаться
+break up;разбивать
+clean up;чистить, убирать
+check in;регистрироваться в отеле
+call off;отменить
+call for;звать, созывать, призывать
+carry on;продолжать
+cross over;переходить
+come back;возвращаться
+come in;входить
+come on;Давай! Пошли!
+find out;узнавать, выяснять
+get up;вставать с постели
+give up;отказаться, сдаться
+go on;продолжать, происходить
+go away;уезжать
+grow up;вырастать, становиться взрослым
+hold on;«висеть» на телефоне
+look for;искать
+look up;искать в книге
+make up;придумать, гримировать
+pay off;расплатиться
+pick up;поднять, познакомиться
+point out;указывать
+put up;поднимать, возводить
+set up;основать, установить
+sign up;записываться
+sit down;сесть
+switch on / turn on;включать
+switch off / turn off;выключить
+think over;обдумать
+turn up;появляться
+wake up;просыпаться
+write down;записывать
+food;еда, пища
+breakfast;завтрак
+dinner;обед
+lunch;ланч
+supper;ужин
+apple;яблоко
+apricot;абрикос
+banana;банан
+beef;говядина
+beefsteak;бифштекс
+berry;ягода
+beet;свекла
+bread;хлеб
+butter;сливочное масло
+cabbage;капуста
+cake;торт, кекс, пирожное
+carrot;морковь
+caviar;икра
+cheese;сыр
+chicken;цыпленок, курятина
+chocolate;шоколад
+corn;кукуруза
+cucumber;огурец
+egg;яйцо
+fish;рыба
+flour;мука
+fruit;фрукты
+garlic;чеснок
+goose;гусь
+ice-cream;мороженое
+jam;джем, варенье
+lemon;лимон
+liver;печень
+meat;мясо
+milk;молоко
+melon;дыня
+mushroom;гриб
+nut;орех
+oil;растительное масло
+omelette;омлет
+onion;лук
+orange;апельсин
+pancakes;блины, оладьи
+peach;персик
+pear;груша
+pepper;перец
+pie;пирог
+pine-apple;ананас
+potatoes;картофель
+sugar;сахар
+rice;рис
+salad;салат
+salt;соль
+sandwich;бутерброд, сандвич
+sausage;сосиска
+shrimp;креветка
+cherry;вишня
+soup;суп
+tomato;помидор
+vanilla;ваниль
+yogurt;йогурт
+water melon;арбуз
+dish;блюдо
+drink;напиток
+juice;сок
+coffee;кофе
+tea;чай
+dessert;десерт
+snack;закуска
+tableware;посуда
+cup;чашка
+fork;вилка
+spoon;ложка
+glass;стакан
+kettle;чайник
+knife;нож
+bowl;миска
+plate;тарелка
+saucepan;кастрюля
+blender;блендер
+microwave (oven);микроволновка
+plate;плита
+refrigerator / fridge;холодильник
+kitchen table;кухонный стол
+fry;жарить
+boil;варить
+grill;готовить на гриле
+stew;тушить
+portion;порция
+volume;объем
+taste;вкус
+tasty;вкусный
+bitter;горький
+creamy;сливочный
+sweet;сладкий
+sour;кислый
+spicy;острый
+salty;соленый
+raw;сырой
+fresh;свежий
+home / house;дом
+building;здание
+room;комната
+kitchen;кухня
+bedroom;спальня
+bathroom;ванная
+thing;вещь
+furniture;мебель
+armchair;кресло
+bed;кровать
+chair;стул
+key;ключ
+table;стол
+soap;мыло
+computer;компьютер
+telephone / phone;телефон
+radio;радио
+TV;телевизор
+shelf;полка
+sofa;диван
+curtains;занавески, шторы
+ball;мяч
+box;коробка, ящик
+party;вечеринка
+door;дверь
+ceiling;потолок
+floor;пол, этаж
+wall;стена
+window;окно
+camera;камера
+guest;гость
+order;порядок
+mess;беспорядок
+travel / journey;путешествие
+place;место
+country;страна
+city;большой город
+town;небольшой город
+hotel;отель
+street;улица
+car;машина, авто
+bus;автобус
+acquaintance;знакомство
+communication;общение
+foreigner;иностранец
+price;цена
+cost;стоимость
+ticket;билет
+bicycle / bike;велосипед
+map;карта
+park;парк
+square;площадь
+museum;музей
+theatre;театр
+scene;сцена
+palace;дворец
+church;церковь
+centre;центр
+traveller (BrEng) /traveler (AmEng);путешественник
+tourist;турист
+bag;сумка
+contact;контакт
+feedback;отзыв
+restaurant;ресторан
+cafe;кафе
+cinema;кинотеатр
+film / movie;кинофильм
+queue (BrEng) / line (AmEng);очередь
+help;помощь
+letter;письмо
+message;сообщение
+purchase;покупка
+attention;внимание
+card;карта
+account;счет
+movement;движение
+step;шаг
+program;программа
+direction;направление
+station;станция
+blog;блог
+action;действие
+road / way;дорога, путь
+rest;отдых
+risk;риск
+border;граница
+event;событие
+world;мир
+peace;мир, покой
+weather;погода
+nature;природа
+water;вода
+air;воздух
+earth / land;земля
+fire;огонь
+ice;лед
+sea;море
+ocean;океан
+river;река
+sky;небо
+sun;солнце
+moon;луна
+star;звезда
+forest;лес
+mountain;гора
+field;поле
+rain;дождь
+snow;снег
+rainbow;радуга
+tree;дерево
+plant;растение
+area;область, среда
+animal;животное
+dog;собака
+cat;кот, кошка
+bird;птица
+cow;корова
+pig;свинья
+fox;лиса
+bear;медведь
+hare;заяц
+hi;привет
+hello;здравствуйте
+thank you;спасибо тебе
+you are welcome;(в ответ на благодарность)
+please;(при выражении просьбы)
+sorry;(при выражении сожаления)
+how are you;Как ты? Как дела?
+welcome;добро пожаловать
+nice to meet you / nice to see you;рад знакомству (встрече) с вами
+bye;пока
+goodbye;до свидания
+good luck;удачи
+have a nice day;отличного дня вам
+same to you;и вам также
+I have to go;я должен идти, я вынужден вас покинуть
